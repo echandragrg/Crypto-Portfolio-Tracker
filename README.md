@@ -20,7 +20,7 @@ Simple UI: Built with Python’s Tkinter library.
 
 **Screenshot**
 
-<img width="822" height="260" alt="image" src="https://github.com/user-attachments/assets/66e566b9-f113-49a1-bd6d-7ac3f6371d18" />
+<img width="1567" height="377" alt="image" src="https://github.com/user-attachments/assets/091868b6-8f05-47a3-9406-9185d5020e38" />
 
 
 **Tech Stack**
